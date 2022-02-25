@@ -1,0 +1,98 @@
+.Table {
+    padding-top: 3%;
+    text-align: center;
+}
+
+.Center {
+    padding-bottom: 2%;
+}
+
+.Icon {
+    color: #E2E2E2;
+    height: 40px;
+    fill: #E2E2E2;
+}
+
+.City {
+    color: #E2E2E2;
+    font-size: 30px;
+    font-weight: normal;
+  }
+
+.State {
+    color: #E2E2E2;
+    font-size: 20px;
+    font-weight: normal;
+  }
+
+.Temp {
+    color: #E2E2E2;
+    font-size: 160px;
+    fill: #E2E2E2;
+  }
+
+.Cloud {
+    height: 120px;
+    fill: #E2E2E2;
+}
+
+.Description {
+    color: #E2E2E2;
+    font-size: 30px;
+}
+
+.Info {
+    text-decoration: none;
+    color: white;
+    font-size: xx-large;
+    background-color: #32425C;
+    width: 96%;
+    height: 18rem;
+    margin: auto;
+    margin-top: 1rem;
+    border-radius:10px;
+    font-size: 55px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+  }
+
+.WeatherInfo {
+    color: #E2E2E2;
+    font-size: 30px;
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-content: center;
+    align-items: center;
+}
+
+.WeatherInfoIcon {
+    fill: #E2E2E2;
+    max-width: 30%;
+    margin: 30px;
+    max-height: 200px;
+}
+
+.WeatherInfoText{
+    text-align: left;
+}
+
+.Line {
+    color: #E2E2E2;
+    font-size: 150px;
+    vertical-align:middle;
+    padding-bottom:2%;
+}
+
+.Num {
+    color: #E2E2E2;
+    font-size: 25px;
+    font-weight: normal;
+}
+
+
+

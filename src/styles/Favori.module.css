@@ -1,0 +1,73 @@
+.Center {
+    padding-top: 1%;
+    padding-bottom: 2%;
+    text-decoration: none;
+    color: white;
+    font-size: xx-large;
+    background-color: #32425C;
+    width: 40%;
+    height: 18rem;
+    margin: auto;
+    margin-top: 1rem;
+    border-radius:10px;
+    text-align: center;
+}
+
+.Icon {
+    color: #E2E2E2;
+    height: 40px;
+    fill: #E2E2E2;
+}
+
+.City {
+    color: #E2E2E2;
+    font-size: 30px;
+    font-weight: normal;
+  }
+
+.Temp {
+    color: #E2E2E2;
+    font-size: 160px;
+    fill: #E2E2E2;
+  }
+
+.Cloud {
+    height: 120px;
+    fill: #E2E2E2;
+}
+
+.Description {
+    color: #E2E2E2;
+    font-size: 30px;
+}
+
+.CenterButton{
+    display: flex;
+    justify-content: center;
+}
+
+.DeleteButton {
+    background-color: #32425C; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border: 2px solid #32425C;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .DeleteButton:hover {
+    background-color: white;
+    color: #32425C;
+  }
+
+
+
+

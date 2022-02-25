@@ -1,0 +1,127 @@
+.Search {
+    display: flex;
+    justify-content: center;
+}
+
+.Label{
+    color: white;
+    text-align: center;
+}
+
+
+.Input {
+    width: 28%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #32425C;
+    border-radius: 4px 0 0 4px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.Button {
+    width: 12%;
+    background-color: #32425C;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 0 4px 4px 0;
+    cursor: pointer;
+    height: 41px;
+    padding-top: 13px;
+    text-align: center;
+}
+  
+.Button:hover {
+    background-color: #4b6286;
+}
+
+.Center {
+    padding-top: 1%;
+    padding-bottom: 2%;
+    text-decoration: none;
+    color: white;
+    font-size: xx-large;
+    background-color: #32425C;
+    width: 40%;
+    height: 18rem;
+    margin: auto;
+    margin-top: 1rem;
+    border-radius:10px;
+    text-align: center;
+}
+
+.Icon {
+    color: #E2E2E2;
+    height: 40px;
+    fill: #E2E2E2;
+    text-align: center;
+}
+
+.City {
+    color: #E2E2E2;
+    font-size: 30px;
+    font-weight: normal;
+    text-align: center;
+  }
+
+.State {
+    color: #E2E2E2;
+    font-size: 20px;
+    font-weight: normal;
+    text-align: center;
+  }
+
+.Temp {
+    color: #E2E2E2;
+    font-size: 160px;
+    fill: #E2E2E2;
+    text-align: center;
+  }
+
+.Cloud {
+    height: 120px;
+    fill: #E2E2E2;
+    text-align: center;
+}
+
+.Description {
+    color: #E2E2E2;
+    font-size: 30px;
+    text-align: center;
+}
+
+.CenterFavButton{
+    display: flex;
+    justify-content: center;
+}
+
+.AddFavButton {
+    background-color: #32425C; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border: 2px solid #32425C;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+}
+  
+  .AddFavButton:hover {
+    background-color: white;
+    color: #32425C;
+  }
+
+
+
+
